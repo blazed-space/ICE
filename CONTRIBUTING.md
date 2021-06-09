@@ -1,4 +1,4 @@
-# Contributing to ICE
+# Contributing to ice
 
 There are multiple ways of getting involved:
 

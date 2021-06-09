@@ -5,4 +5,3 @@ We offer lifetime support on all our software, so please do not hesistate to uti
 https://support.blazed.work/
 
 You may also file an issue request on the "Issues" tab of this project.
-
