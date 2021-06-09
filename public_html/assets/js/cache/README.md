@@ -1,1 +1,0 @@
-# This cache folder will be dynamically populated with JS files as they are rendered by BundleFU.
