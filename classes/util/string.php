@@ -8,6 +8,7 @@
 			(c)2021 https://github.com/blazed-space/ICE
 			
 	*/
+	namespace ice;
 	class Util_String{
 		/*
 			Util_String::KEYSPACE

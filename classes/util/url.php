@@ -8,6 +8,7 @@
 			(c)2021 https://github.com/blazed-space/ICE
 			
 	*/
+	namespace ice;
 	class Util_Url{
 		/*
 			Util_Url::base64url_encode($data)

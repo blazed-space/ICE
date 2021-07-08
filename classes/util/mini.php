@@ -10,6 +10,7 @@
 			(c)2021 https://github.com/blazed-space/ICE
 			
 	*/
+	namespace ice;
 	class Util_Mini{
 		/*
 			Util_Mini::html($input)
