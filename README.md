@@ -13,11 +13,13 @@ This project is also tied to the [BLZ standard template](https://github.com/blaz
 
 ## Installing
 
-- If you already have a FuelPHP install, you may place the /ice/ package in the package path.
-  Make sure you add the Bundle-FU and PHP Commonmark dependencies
+- Simply run,
+
   ```shell
-  composer require blazed-labs/ice:dev-main
+  composer require blazed-labs/ice
   ```
+  
+This library is delivered as a Fuel Package, so make sure you have Fuel installed.
 
 # Repo Information
 
