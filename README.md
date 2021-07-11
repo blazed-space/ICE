@@ -3,6 +3,8 @@ A set of utilities and tools for PHP, made by Blazed Labs.
 
 ![Logo](logo.png?raw=true "ICE LOGO")
 
+[![Packagist Version](https://img.shields.io/packagist/v/blazed-labs/ice)](https://packagist.org/packages/blazed-labs/ice)
+
 This project is also tied to the [BLZ standard template](https://github.com/blazed-space/BLZ-template) for Fuel.
 
 ## Dependencies
