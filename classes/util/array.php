@@ -1,5 +1,5 @@
 <?php
-
+namespace ice;
 class Util_Array{
     /*
         * Util_Array::buildActiveArray($conf)
@@ -11,10 +11,10 @@ class Util_Array{
     */
     public static function buildActiveArray($conf){
         $active = array();
-            for($i = 0; $i <= $conf->max; $i++){
+            for($i = 0; $i <= $conf['max']; $i++){
               $e = '';
-              if(isset($conf->page)):
-                if($i == $conf->page){
+              if(isset($conf['page'])):
+                if($i == $conf['page']){
                   $e = ' active'; 
                 }
               endif;
