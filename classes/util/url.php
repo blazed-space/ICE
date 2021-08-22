@@ -3,7 +3,7 @@
 			ice::Util_Url
 			/classes/util/url.php
 
-			The ICE SSG
+			ICE
 			Created by: Blazed Labs LLC [ https://blazedlabs.com/ ]
 			(c)2021 https://github.com/blazed-space/ICE
 			

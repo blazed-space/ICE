@@ -1,13 +1,16 @@
 # 🧊 ice 
-## PHP Utils for the Fire SSG.
+## PHP Utils, also used by the Freeze SSG.
 
-![Logo](logo.png?raw=true "ICE LOGO")
+Please see /docs/ABOUT.md for more information.
+
+![Logo](docs/img/logo.png?raw=true "ICE LOGO")
 
 [![Packagist Version](https://img.shields.io/packagist/v/blazed-labs/ice)](https://packagist.org/packages/blazed-labs/ice)
 
 ## Dependencies
 * PHP
 * Composer
+* FuelPHP
 
 ## Installing
 

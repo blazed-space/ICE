@@ -5,7 +5,7 @@
 
 			Based on `https://github.com/mecha-cms/mecha-cms/blob/master/system/kernel/converter.php`
 			
-			The ICE SSG
+			ICE
 			Created by: Blazed Labs LLC [ https://blazedlabs.com/ ]
 			(c)2021 https://github.com/blazed-space/ICE
 			
