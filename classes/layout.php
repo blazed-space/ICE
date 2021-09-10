@@ -68,7 +68,7 @@ class Layout{
 	public static function get_actual_url(){
 		return (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 	}
-    public static function create_bundle($page){
+    public static function create_bundle($page, $u){
 		$bundle_name = Util_Url::base64url_encode($page);
 		$css_filter = new \DotsUnited\BundleFu\Filter\CallbackFilter(function($content) {
 				return Util_Mini::css($content);
@@ -78,10 +78,10 @@ class Layout{
 			'name' => 'bundle_' . $bundle_name,
 			'doc_root' => DOCROOT,
 			'css_cache_path' => 'assets/css/cache',
-			'css_cache_url' => Uri::base() . 'assets/css/cache',
+			'css_cache_url' => $u . 'assets/css/cache',
 			'css_filter' => $css_filter,
 			'js_cache_path' => 'assets/js/cache',
-			'js_cache_url' => Uri::base() . 'assets/js/cache',
+			'js_cache_url' => $u . 'assets/js/cache',
 		);
 		return new \DotsUnited\BundleFu\Bundle($options);
 	}
