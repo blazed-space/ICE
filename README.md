@@ -1,9 +1,9 @@
 # 🧊 ice 
+![Logo](https://blazed.sirv.com/software/blz-ice-new.png "ICE LOGO")
+
 ## PHP Utils, also used by the Ice (For PHP)
 
 Please visit [blz-ice-php](https://github.com/blazed-space/blz-ice-php), to see a working implementation of this package.
-
-![Logo](https://blazed.sirv.com/software/blz-ice-new.png "ICE LOGO")
 
 [![Packagist Version](https://img.shields.io/packagist/v/blazed-labs/ice)](https://packagist.org/packages/blazed-labs/ice)
 
