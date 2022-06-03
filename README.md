@@ -1,7 +1,7 @@
 # 🧊 ice 
-## PHP Utils, also used by the Freeze SSG.
+## PHP Utils, also used by the Ice (For PHP)
 
-Please see /docs/ABOUT.md for more information.
+Please visit [blz-ice-php](https://github.com/blazed-space/blz-ice-php), to see a working implementation of this package.
 
 ![Logo](docs/img/logo.png?raw=true "ICE LOGO")
 
